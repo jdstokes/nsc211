@@ -5,6 +5,11 @@ by Team CMB/CNS (Felix, Jared, Ben,Fernando)
 
 ### Resources
 * [Overview of TensorFlow interface paper](/references/Abadi2015.pdf)
+* [Tour of TensorFlow paper](/references/TourTF.pdf)
+* [Installing TensorFlow](https://www.tensorflow.org/install/)
+* [Installing Anaconda](https://www.tensorflow.org/install/)
+* [TensorFlow's tutorial](https://www.tensorflow.org/get_started/get_started)
+
 ### Installation
 
 ### What is TensorFlow?
