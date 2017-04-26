@@ -4,7 +4,7 @@
 by Team CMB/CNS (Felix, Jared, Ben,Fernando) 
 
 ### Resources
-* [Overview of TensorFlow interface paper]: /references/Abadi2015.pdf
+* [Overview of TensorFlow interface paper](../references/Abadi2015.pdf)
 ### Installation
 
 ### What is TensorFlow?
