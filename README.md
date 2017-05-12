@@ -20,6 +20,17 @@ by Team CMB/CNS (Felix, Jared, Ben,Fernando)
 
 ### Higher level API packages
 
+### fMRI
+* [Guclu and van Gervan 2015](/references/Guclu2015.pdf)
+* [Guest and Love 2017](/references/Guest2017.pdf)
+* [Hanson et al. 2004](/references/Hanso_N_2004I.pdf)
+* [Jang et al. 2017](/references/Jang2017.pdf)
+* [Kahligh-Razavi et al. 2014](/references/Kahligh-Razavi2014.PDF)
+* [Kriegeskorte et al. 2015](/references/Kriegeskorte2015.pdf)
+* [Marblestone et al. 2016](/references/Marblestone2016.pdf)
+* [Misaki et al. 2009](/references/Misaki2009.pdf)
+
+
 
 
 
